@@ -1,0 +1,33 @@
+html{
+    background-color: black;
+}
+h1{
+    font-family: "STIX Two Text";
+    color: white;
+    text-align: center;
+    margin-left: 50px;
+    text-transform: capitalize;
+}
+
+#bigdiv{
+    margin:10%;
+
+}
+img{
+    height: 200%;
+    width: 110%;
+    border: white solid;
+}
+
+#image{
+    width:50%;
+    margin-left:25% ;
+}
+
+p{
+    color:white;
+    text-align: center;
+    margin-left: 50px;
+    font-size: x-large;
+    
+}
